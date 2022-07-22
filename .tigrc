@@ -3,6 +3,7 @@
 # Doc : http://jonas.nitro.dk/tig/manual.html
 # Need tig version 2.2.2 or greater!
 
+
 set vertical-split = 0
 
 set main-options = -n 200
